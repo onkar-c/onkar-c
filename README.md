@@ -4,7 +4,7 @@ Tip: Keep it concise, skimmable, and recruiter-friendly.
 -->
 
 # Onkar Chopade
-**Software Engineer | Android (Kotlin/Java) | Backend (Node.js, Python)**
+**Software Engineer | Android (Kotlin/Java) | Backend | Frontend**
 
 Vancouver, Canada 
 📧 chopadeonkar@gmail.com · 🔗 LinkedIn: [https://www.linkedin.com/in/onkarchopade/](https://www.linkedin.com/in/onkarchopade/) 
@@ -21,9 +21,10 @@ I’m a software engineer with 5+ years of experience delivering production-grad
 ---
 
 ## Core Skills
-**Mobile (Android):** Kotlin, Java, Jetpack Compose, Coroutines/Flow, MVVM/MVI, Clean Architecture, Room, WorkManager, Navigation, Paging, Material Design, offline-first, background sync  
-**Backend:** Node.js (Express), Python (Flask/Django), REST APIs, authentication/authorization, integrations  
-**Data & Storage:** SQLite/Room, PostgreSQL/MySQL (basics), MongoDB (familiarity)  
+**Mobile (Android):** Kotlin, Java, Jetpack Compose, Coroutines/Flow, MVVM/MVI, Clean Architecture, Room, WorkManager, Navigation, Paging, Material Design, offline-first, background sync.  
+**Backend:** Node.js (NestJs, Express), Python (Flask/Django), REST APIs, JWT, authentication/authorization, integrations.  
+**Frontend:** Nextjs, CSS, Angularjs.
+**Data & Storage:** SQLite/Room, PostgreSQL/MySQL, MongoDB, Prisma.  
 **Quality:** Unit testing, instrumentation tests, debugging, Crashlytics, performance profiling  
 **DevOps & Tooling:** Git, CI/CD (GitHub Actions/Jenkins familiarity), Gradle, release pipelines, logging/monitoring  
 **Security Mindset:** secure storage, token-based auth, least privilege, OWASP considerations for mobile/backend
@@ -31,34 +32,41 @@ I’m a software engineer with 5+ years of experience delivering production-grad
 ---
 
 ## Featured Projects
-> Add or update links as you publish repos. Keep 3–6 strong projects max.
 
-### 📌 Android: Clean Architecture Showcase
-A production-style Android app demonstrating modern Android development:
-- Modular structure, MVVM/Clean Architecture, Kotlin Coroutines/Flow
-- Room + Retrofit, offline-first caching & sync patterns
-- Test strategy: unit + UI tests
-- CI pipeline, linting, and release-ready setup  
-Repo: **[LINK_HERE]**
+### 📌 Android MVVM Architecture Template (Compose · Hilt · Room · Retrofit)
+- Production-ready Android Template built with Kotlin and MVVM Architecture. This project is meant to be a starting point for real-world apps. 
+- **Tech:** Kotlin, Jetpack Compose, Hilt, Room, Retrofit, OkHttp, Moshi, Coroutines/Flow, JUnit4, MockK, Turbine, GitHub Actions  
+- Repo: https://github.com/onkar-c/Android-MVVM-Compose-Template
 
-### 📌 PennyQuick – Cab Booking App (Android)
-Interstate cab booking solution built in Android (Java/Kotlin):
-- Booking lifecycle, driver/agent workflows, payments integration (as applicable)
-- Focus on reliability, app responsiveness, and maintainable architecture  
-Repo/Case Study: **[LINK_HERE]**
 
-### 📌 Document / ID Scanning App (Android)
-App for scanning identity documents with barcode/QR + text recognition:
-- QR/Barcode recognition (ZXing), Vision libraries
-- Practical experience with camera workflows and on-device processing  
-Repo/Case Study: **[LINK_HERE]**
+### 📌 Android Clean Architecture Template (Multi-module · Dagger 2 · TheMealDB)
+- Clean Architecture showcase with clear boundaries across `:app / :domain / :data`. Demonstrates repository contracts, **DTO ↔ Entity ↔ Domain** mapping, **Room + Retrofit** integration, and **Flow-driven ViewModels** with a complete meals experience (list, favorites, details).  
+- **Tech:** Kotlin, Jetpack Compose, Dagger 2, Room, Retrofit, OkHttp, Moshi, Coroutines/Flow, Multi-module architecture, TheMealDB API  
+- Repo: https://github.com/onkar-c/Android-Clean-Architecture-Template
+
+### 📌 CivicLink (Full-Stack MVP: Next.js Web + NestJS Backend + Android App)
+  &nbsp;&nbsp;&nbsp;&nbsp; A real-world civic issue reporting platform built as an MVP (not a toy CRUD app), with role-based access for citizens/admins and a clean API boundary between frontend and backend.
+  
+  - **Web (Frontend)**
+    - Role-based dashboards, issue create/edit flows, profile management, and admin user/role management (optimistic updates)  
+    - **Tech:** Next.js (App Router), TypeScript, React, Tailwind CSS, JWT AuthContext, Fetch API wrappers  
+    - Repo: https://github.com/onkar-c/civiclink-web
+  
+  - **Backend (REST API)**
+    - JWT authentication, RBAC enforcement, validated DTOs, Swagger/OpenAPI docs, feature-based NestJS modules  
+    - **Tech:** Node.js, NestJS, Prisma 7, PostgreSQL, JWT, class-validator/class-transformer, Swagger/OpenAPI  
+    - Repo: https://github.com/onkar-c/civiclink-backend
+
+  - **Mobile App (Android, Kotlin)**
+    - **Tech:** Kotlin, Jetpack Compose (Material 3), MVVM, Hilt, Room, Retrofit/OkHttp/Moshi, Coroutines/Flow, GitHub Actions CI
+    - Repo: Coming Soon.
+
 ---
-
 ## What I’m Working On
-- Strengthening advanced Android topics: performance, offline sync, modularization, testing depth
+- Enhancing **CivicLink (Web + Backend)** with additional MVP capabilities, improved UX, and stronger reliability/validation patterns.
+- **CivicLink Android** (New, In Progress)
+- Strengthening advanced Android topics: performance, offline sync, modularization, testing depth, maps.
 - Building portfolio-grade repos with documentation, diagrams, and CI
-- Exploring applied security practices for mobile + backend systems
-
 ---
 
 ## Education
