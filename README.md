@@ -12,11 +12,15 @@ Vancouver, Canada
 ---
 
 ## Summary
-I’m a software engineer with 5+ years of experience delivering production-grade mobile and backend systems across healthcare, fintech, and IoT. I’ve led features end-to-end—from requirements and architecture to implementation, testing, CI/CD, and production support. I focus on clean architecture, performance, reliability, and secure engineering practices.
+Software Engineer with 5+ years of experience delivering secure, high-performance Android and full-stack applications across healthcare, IoT, and consumer products. I lead end-to-end delivery—from requirements and architecture through API design, implementation, code reviews, testing, CI/CD, releases, and production support—while mentoring engineers and partnering closely with Product and Design to ship reliable outcomes.
 
-- Strong in **Android (Kotlin/Java)** with **Jetpack Compose**, modern Jetpack libraries, and MVVM/Clean Architecture
-- Backend experience building **REST APIs** with **Node.js** and **Python**
-- Comfortable owning delivery: planning, technical design, code reviews, automation, and incident-driven troubleshooting
+Android Expertise: Kotlin/Java, Android SDK, Jetpack Compose, MVVM, Clean Architecture, Coroutines/Flow, Retrofit/OkHttp/Moshi, Room/SQLite, WorkManager, Navigation, Material Design, performance tuning, and offline-first patterns (caching + sync). I focus on maintainable architectures, predictable state management, and high-quality UX under real-world constraints.
+
+Full-Stack & Backend: RESTful API design and integration, JWT/OAuth 2.0 authentication, and backend development with Node.js/NestJS and Python (Flask/Django/FastAPI). Comfortable designing data models and working across PostgreSQL, MySQL, and MongoDB, with an emphasis on clean contracts, validation, and operational readiness.
+
+Security Mindset: Master’s in Cybersecurity (NYIT, Vancouver). Applied knowledge of OWASP Top 10, API security, IAM concepts, vulnerability management, and security testing/analysis tools (e.g., Wireshark, Burp Suite, Nessus, Nmap) to support secure-by-design engineering decisions.
+
+I’m passionate about building modular, scalable systems—across mobile and backend—that balance performance, security, and maintainability. I’m known for simplifying complex codebases, improving reliability, and accelerating delivery through strong engineering standards and automation.
 
 ---
 
