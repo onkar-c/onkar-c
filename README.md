@@ -25,13 +25,15 @@ I’m passionate about building modular, scalable systems—across mobile and ba
 ---
 
 ## Core Skills
-**Mobile (Android):** Kotlin, Java, Jetpack Compose, Coroutines/Flow, MVVM/MVI, Clean Architecture, Room, WorkManager, Navigation, Paging, Material Design, offline-first, background sync.  
-**Backend:** Node.js (NestJs, Express), Python (Flask/Django), REST APIs, JWT, authentication/authorization, integrations.  
-**Frontend:** Nextjs, CSS, Angularjs.
-**Data & Storage:** SQLite/Room, PostgreSQL/MySQL, MongoDB, Prisma.  
-**Quality:** Unit testing, instrumentation tests, debugging, Crashlytics, performance profiling  
-**DevOps & Tooling:** Git, CI/CD (GitHub Actions/Jenkins familiarity), Gradle, release pipelines, logging/monitoring  
-**Security Mindset:** secure storage, token-based auth, least privilege, OWASP considerations for mobile/backend
+- **Languages:** Kotlin, Java, Python, JavaScript, TypeScript
+- **Android Development:** Android SDK, Jetpack (Compose, Room, Retrofit, Coroutines/Flow, ViewModel, LiveData, Navigation, WorkManager, Paging, DataStore), AndroidX, RxJava, Material Design, Offline-first Sync
+- **Architecture & Patterns:** MVVM, MVP, MVI, Clean Architecture, Dependency Injection (Dagger 2 / Hilt), Modularization, Repository Pattern
+- **API & Integration:** RESTful APIs, Retrofit, JSON/XML, FCM, OAuth2, OpenID, Secure Storage, Android Keystore, OkHttp, Moshi, GSON, Volley
+- **Testing & QA:** JUnit, Mockito, MockK, Robolectric, Espresso, UI Automator, Turbine, TDD, Crashlytics, Profiling, Code Reviews
+- **Backend & Web Development:** Node.js (NestJS, Express), Python (Flask, Django, FastAPI), JWT/OAuth2 Auth, Prisma ORM, PostgreSQL, MySQL, MongoDB, SQLite, Realm
+- **CI/CD & Tools:** Gradle, Jenkins, GitHub Actions, Git, Bitbucket, Jira, Postman, Play Store Automation, Swagger/OpenAPI
+- **Frontend:** Next.js, React, AngularJS, Tailwind CSS, HTML, CSS
+- **Collaboration & Soft Skills:** Agile/Scrum, Sprint Planning, Stakeholder Communication, Problem Solving, Cross-Functional Collaboration, Mentorship, Adaptability, Time Management, Team Leadership.
 
 ---
 
